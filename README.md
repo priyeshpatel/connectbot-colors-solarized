@@ -1,12 +1,13 @@
 # ConnectBot Colors Solarized
-#### Priyesh Patel
+*Priyesh Patel*
+*https://github.com/priyeshpatel/connectbot-colors-solarized*
 
 ## Solarized by Ethan Schoonover
 Solarized is a sixteen color palette (eight monotones, eight accent colors)
 designed for use with terminal and gui applications. It has several unique
 properties. Read more at http://ethanschoonover.com/solarized
 
-![Solarized for ConnectBot](connectbot-solarized.png)
+![Solarized for ConnectBot](https://github.com/priyeshpatel/connectbot-colors-solarized/raw/master/connectbot-solarized.png)
 
 ## Installing automatically (Linux/Mac only)
   1. Clone this repository: `git clone
