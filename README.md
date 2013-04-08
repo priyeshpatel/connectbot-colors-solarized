@@ -19,10 +19,14 @@ properties. Read more at http://ethanschoonover.com/solarized
 
 ## Manual Installation
 
-### SQL
-Open `connectbot-solarized.sql` and execute the SQL commands found inside upon
-the following SQLite database:
-`/data/data/org.connectbot/databases/hosts`
+### Without ADB
+  1. Download (or copy and paste) the SQL file provided in this repository:
+     https://raw.github.com/priyeshpatel/connectbot-colors-solarized/master/connectbot-solarized.sql.
+  2. Open a terminal emulator.
+  3. Gain superuser privileges using `su`.
+  4. Navigate to the downloaded `.sql` file.
+  5. Run `sqlite3 /data/data/org.connectbot/databases/hosts <
+     path/to/downloaded.sql`.
 
 ### ConnectBot Color Chooser
 ConnectBot has a color chooser found under Colors in the menu. You will need to
