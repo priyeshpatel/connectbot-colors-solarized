@@ -19,7 +19,8 @@ properties. Read more at http://ethanschoonover.com/solarized
 
 ## Manual Installation
 
-### Without ADB (provided by @adamgreig)
+### Without ADB 
+(Instructions provided by @adamgreig)
   1. Download (or copy and paste) the SQL file provided in this repository:
      https://raw.github.com/priyeshpatel/connectbot-colors-solarized/master/connectbot-solarized.sql.
   2. Open a terminal emulator.
