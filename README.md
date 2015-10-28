@@ -5,7 +5,7 @@
 ## Solarized by Ethan Schoonover
 Solarized is a sixteen color palette (eight monotones, eight accent colors)
 designed for use with terminal and gui applications. It has several unique
-properties. Read more at http://ethanschoonover.com/solarized
+properties. Read more at http://ethanschoonover.com/solarized.
 
 ![Solarized for ConnectBot](https://github.com/priyeshpatel/connectbot-colors-solarized/raw/master/connectbot-solarized.png)
 
@@ -16,6 +16,7 @@ properties. Read more at http://ethanschoonover.com/solarized
   3. Enable Root access through ADB from Settings > Developer Tools
   4. Connect the device to the computer
   5. Run `connectbot-colors-solarized/install.sh` and follow the instructions
+  6. Restart ConnectBot by force stopping the app.
 
 ## Manual Installation
 
@@ -28,6 +29,7 @@ properties. Read more at http://ethanschoonover.com/solarized
   4. Navigate to the downloaded `.sql` file.
   5. Run `sqlite3 /data/data/org.connectbot/databases/hosts <
      path/to/downloaded.sql`.
+  6. Restart ConnectBot by force stopping the app.
 
 ### ConnectBot Color Chooser
 ConnectBot has a color chooser found under Colors in the menu. You will need to
