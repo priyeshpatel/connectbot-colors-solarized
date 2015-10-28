@@ -41,22 +41,22 @@ BG: 1
 ```
 CONNECTBOT # SOLARIZED HEX     HSB
 ------------ --------- ------- -----------
-0            base03    #002b36 193 100  21
-8            base02    #073642 192  90  26
-10           base01    #586e75 194  25  46
-11           base00    #657b83 195  23  51
-12           base0     #839496 186  13  59
-14           base1     #93a1a1 180   9  63
-7            base2     #eee8d5  44  11  93
-15           base3     #fdf6e3  44  10  99
-3            yellow    #b58900  45 100  71
-9            orange    #cb4b16  18  89  80
-1            red       #dc322f   1  79  86
-5            magenta   #d33682 331  74  83
-13           violet    #6c71c4 237  45  77
-4            blue      #268bd2 205  82  82
-6            cyan      #2aa198 175  74  63
-2            green     #859900  68 100  60
+1            base03    #002b36 193 100  21
+9            base02    #073642 192  90  26
+11           base01    #586e75 194  25  46
+12           base00    #657b83 195  23  51
+13           base0     #839496 186  13  59
+15           base1     #93a1a1 180   9  63
+8            base2     #eee8d5  44  11  93
+16           base3     #fdf6e3  44  10  99
+4            yellow    #b58900  45 100  71
+10           orange    #cb4b16  18  89  80
+2            red       #dc322f   1  79  86
+6            magenta   #d33682 331  74  83
+14           violet    #6c71c4 237  45  77
+5            blue      #268bd2 205  82  82
+7            cyan      #2aa198 175  74  63
+3            green     #859900  68 100  60
 ```
 
 ## Irssi ConnectBot
