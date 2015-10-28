@@ -59,6 +59,11 @@ CONNECTBOT # SOLARIZED HEX     HSB
 2            green     #859900  68 100  60
 ```
 
+## Irssi ConnectBot
+(Instructions provided by @hexa}
+To install Solarized colors on Irssi ConnectBot, replace `org.connectbot` with
+`org.woltage.irssiconnectbot` in the install file.
+
 ## Uninstalling
 To revert to the default color scheme, open ConnectBot and from the Colors page
 select Reset in the menu.
